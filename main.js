@@ -49,3 +49,4 @@ btn.addEventListener("click", () => {
 
     const spans = document.querySelectorAll("span");
     spans.forEach(span => span.classList.toggle("close"));
+});
