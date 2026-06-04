@@ -1,5 +1,7 @@
 <h1>Dashboard Page</h1>
 
+<h2>Live Demo: https://arzoomansuri18.github.io/Dashboard-Page/</h2>
+
 <p>This project is a simple <b>Dashboard UI</b> built using <b>HTML, CSS and JavaScript.</b> It displays small data cards, quick stats, and sections that give a feel of an admin dashboard -in a clean modren layout.</p>
 
 <h2>Features</h2>
